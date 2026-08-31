@@ -16,7 +16,7 @@
     "aws-sdk": "^2.1050.0",
     "dotenv": "^16.0.0",
     "fs": "^0.0.1-security",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "pg": "^8.7.1",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.12.0-beta.2",
